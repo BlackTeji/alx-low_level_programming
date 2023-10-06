@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- *main - C program with the printf Function 
+ *main - the main function
  *
- *Return: input 0 at the end of the program
+ *Return: put 0 when done
  */
 
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,");
-return (0);
+  puts("with proper grammar, but the outcome is a piece of art,");
+  return (0);
 }
